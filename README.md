@@ -1,6 +1,6 @@
 # Largest Chapter 1 and 2 iOS Build Archive
 
-https://discord.com/channels/@me/1091568136307884043/1406866011197804585
+
 
 Credits to Crunnie🕊️ for builds 3.3 - 5.40
 Credits to Localized for builds 5.41 - 13.40.1
