@@ -20,10 +20,16 @@ These are not all of the builds soon I will add more
 |------------|----------------|--------|
 | Fortnite+Release-4.1-CL- .ipa | [Download](N/A) | 🍇Infinity War🍇
 | Fortnite+Release-4.2-CL-4072250.ipa | [Download](https://rebrand.ly/42CL4072250) | 🍇Thanos _Nerfed_ 🍇 |
+| Fortnite+Release-4.3-CL- .ipa | [Download](N/A) | None |
+| Fortnite+Release-4.4-CL- .ipa | [Download](N/A) | ⚽️World Cup Event⚽️ |
+| Fortnite+Release-4.5-CL- .ipa | [Download](N/A) | 🚀Take Off!🚀 |
 
 # Season 5
 | Build name | Build download | Events |
 |------------|----------------|--------|
+| Fortnite+Release-5.00-CL .ipa | [Download](N/A) | None |
+| Fortnite+Release-5.10-CL .ipa | [Download](N/A) | 🎂1st Birthday🎂 |
+| Fortnite+Release-5.30-CL .ipa | [Dowmload](N/A) | 🟪Cube Spawn🟪 |
 | Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) | None |
 | Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) | None |
 | Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk) | 🟪Cube Lake🟪 |
