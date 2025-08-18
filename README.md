@@ -21,7 +21,7 @@ Credits to Localized for builds 5.41 - 13.40.1
 |------------|----------------|
 | Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) |
 | Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) |
-| Fortnite+Release-5.41.0-CL-4363240.ipa | [Download] (https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/
+| Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk)
 
 # season 6
 | Build name | Build download |
