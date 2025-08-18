@@ -22,14 +22,14 @@ These are not all of the builds soon I will add more
 # Season 5
 | Build name | Build download | Events |
 |------------|----------------|--------|
-| Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) |
-| Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) |
-| Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk)
+| Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) | None |
+| Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) | None |
+| Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk) | Cube Lake |
 
 # Season 6
 | Build name | Build download | Events |
 |------------|----------------|--------|
-| Fortnite+Release-6.00-CL-4395664.ipa | [Download](https://drive.google.com/file/d/1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d/view?usp=drivesdk)
+| Fortnite+Release-6.00-CL-4395664.ipa | [Download](https://drive.google.com/file/d/1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d/view?usp=drivesdk) |
 | Fortnite+Release-6.01-CL-4413911.ipa | [Download](https://drive.google.com/file/d/1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r/view?usp=drivesdk) |
 | Fortnite+Release-6.10-CL-4461277.ipa | [Download](https://drive.google.com/file/d/1FMaAukBfWXF9dA5zuNRcL7peIBuqlyNB/view?usp=drivesdk) |
 | Fortnite+Release-6.20-CL-4503517.ipa | [Download](https://drive.google.com/file/d/1emPTVUzJFXuE6K2R6qCktssrhCI-wf90/view?usp=drivesdk) |
