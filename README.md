@@ -10,25 +10,25 @@ These are not all of the builds soon I will add more
 # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
-| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://rebrand.ly/33CL3944819) |
-| Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://rebrand.ly/34CL3968866) |
-| Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://rebrand.ly/35CL3994867) |
+| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://rebrand.ly/33CL3944819) | None |
+| Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://rebrand.ly/34CL3968866) | None |
+| Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://rebrand.ly/35CL3994867) | None |
 
 # Season 4
-| Build name | Build download |
-|------------|----------------|
+| Build name | Build download | Events |
+|------------|----------------|--------|
 | Fortnite+Release-4.2-CL-4072250.ipa | [Download](https://rebrand.ly/42CL4072250) |
 
 # Season 5
-| Build name | Build download |
-|------------|----------------|
+| Build name | Build download | Events |
+|------------|----------------|--------|
 | Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) |
 | Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) |
 | Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk)
 
 # Season 6
-| Build name | Build download |
-|------------|----------------|
+| Build name | Build download | Events |
+|------------|----------------|--------|
 | Fortnite+Release-6.00-CL-4395664.ipa | [Download](https://drive.google.com/file/d/1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d/view?usp=drivesdk)
 | Fortnite+Release-6.01-CL-4413911.ipa | [Download](https://drive.google.com/file/d/1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r/view?usp=drivesdk) |
 | Fortnite+Release-6.10-CL-4461277.ipa | [Download](https://drive.google.com/file/d/1FMaAukBfWXF9dA5zuNRcL7peIBuqlyNB/view?usp=drivesdk) |
@@ -40,7 +40,7 @@ These are not all of the builds soon I will add more
 
 # Season 7
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-7.00-CL-4629139.ipa | [Download](https://drive.google.com/file/d/1iKf-T1XgMVfP5J2rww1k0G5XWFI7weng/view?usp=drivesdk) |
 | Fortnite+Release-7.10-CL-4667333.ipa | [Download](https://drive.google.com/file/d/1eLzlXtZl9Oji1K3uEBM1oUjL_jfF5od-/view?usp=drivesdk) |
 | Fortnite+Release-7.20-CL-4727874.ipa | [Download](https://drive.google.com/file/d/1bFEFNkqOWxH9eMxK5lnh7Urc-b5A-SXa/view?usp=drivesdk) |
@@ -49,7 +49,7 @@ These are not all of the builds soon I will add more
 
 # Season 8
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-8.00-CL-5203069.ipa | [Download](https://drive.google.com/file/d/1U5KhJa0DXoVOVnWV5VCYTJlQxwGjDUjY/view?usp=drivesdk) |
 | Fortnite+Release-8.01-CL-5220395.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) |
 | Fortnite+Release-8.10-CL-5285984.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) |
@@ -61,7 +61,7 @@ These are not all of the builds soon I will add more
 
 # Season 9
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-9.00-CL-6058028.ipa | [Download](https://drive.google.com/file/d/1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt/view?usp=drivesdk) |
 | Fortnite+Release-9.01-CL-6165369.ipa | [Download](https://drive.google.com/file/d/1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu/view?usp=drivesdk) |
 | Fortnite+Release-9.10-CL-6337466.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) |
@@ -73,7 +73,7 @@ These are not all of the builds soon I will add more
 
 # Season 10    Note! versions 10.30 - 13.40.1 Have PartyHub!
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-10.00-CL-7655413.ipa | [Download](https://drive.google.com/file/d/160yATtcd_kTQP6vM4fqO5gKbRadNxsF6/view?usp=drivesdk) |
 | Fortnite+Release-10.10-CL-7852093.ipa | [Download](https://drive.google.com/file/d/1ah_fBniCFD7DVXnp2zUKIyDXIlpg_T0U/view?usp=drivesdk) |
 | Fortnite+Release-10.20-CL-8243923.ipa | [Download](https://drive.google.com/file/d/1WHwzUXIhObHqGUm35KHitGOAPqsGKB7j/view?usp=drivesdk) |
@@ -84,7 +84,7 @@ These are not all of the builds soon I will add more
 
 # Season 11
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-11.00-CL-9603448.ipa | [Download](https://drive.google.com/file/d/1JQ9eur6jZzNoDdjIjs91M3tzz2CW0lvq/view?usp=drivesdk) |
 | Fortnite+Release-11.01-CL-9728272.ipa | [Download](https://drive.google.com/file/d/1VlZPE6aODBwlh2wY7A1FXXkVpi1-uoe-/view?usp=drivesdk) |
 | Fortnite+Release-11.10-CL-9901080.ipa | [Download](https://drive.google.com/file/d/1eYEE8MFkAFL4k7XWBrZ4Ydy0qdswp5U_/view?usp=drivesdk) |
@@ -98,7 +98,7 @@ These are not all of the builds soon I will add more
 
 # Season 12
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-12.00-CL-11452981.ipa | [Download](https://drive.google.com/file/d/1t_k9i8ADLbPCgbnZGxWWukzJd-XAmLqK/view?usp=drivesdk) |
 | Fortnite+Release-12.10-CL-11932896.ipa | [Download](https://drive.google.com/file/d/1t2tVLxq2mapkM50IB1Iqn8yDO7bGM5pz/view?usp=drivesdk) |
 | Fortnite+Release-12.20-CL-12236980.ipa | [Download](https://drive.google.com/file/d/1Y3TsD5ZOT2Jm5Ox-z0eX7DJlT6Y6vBdH/view?usp=drivesdk) |
@@ -111,7 +111,7 @@ These are not all of the builds soon I will add more
 
 # Season 13
 | Build name | Build download |
-|------------|----------------|
+|------------|----------------|--------|
 | Fortnite+Release-13.00-CL-13649241.ipa | [Download](https://drive.google.com/file/d/1j6QWNY8jo8NuubVu9Vt63yd6JPAprqcD/view?usp=drivesdk) |
 | Fortnite+Release-13.20-CL-13884634.ipa | [Download](https://drive.google.com/file/d/18l08Jbn2qC5gdGLYP8KaxX8RQfwlaXmD/view?usp=drivesdk) |
 | Fortnite+Release-13.30-CL-13981259.ipa | [Download](https://drive.google.com/file/d/1MaJMiYNcBcyQFmFo6rgQCawfxYwv-HyH/view?usp=drivesdk) |
