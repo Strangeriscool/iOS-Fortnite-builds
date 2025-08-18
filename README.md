@@ -22,7 +22,7 @@ These are not all of the builds soon I will add more
 | Fortnite+Release-4.2-CL-4072250.ipa | [Download](https://rebrand.ly/42CL4072250) | 🍇Thanos _Nerfed_ 🍇 |
 | Fortnite+Release-4.3-CL- .ipa | [Download](N/A) | None |
 | Fortnite+Release-4.4-CL- .ipa | [Download](N/A) | ⚽️World Cup Event⚽️ |
-| Fortnite+Release-4.5-CL- .ipa | [Download](N/A) | 🚀Take Off!🚀 |
+| Fortnite+Release-4.5-CL- .ipa | [Download](N/A) | 🚀Blast Off!🚀 |
 
 # Season 5
 | Build name | Build download | Events |
