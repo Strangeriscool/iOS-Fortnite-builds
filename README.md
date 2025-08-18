@@ -13,6 +13,7 @@ These are not all of the builds soon I will add more
 | Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://rebrand.ly/33CL3944819) | None |
 | Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://rebrand.ly/34CL3968866) | None |
 | Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://rebrand.ly/35CL3994867) | None |
+| Fortnite+Release-3.6-CL- .ipa | [Download](N/A)
 
 # Season 4
 | Build name | Build download | Events |
