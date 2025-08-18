@@ -29,8 +29,8 @@ These are not all of the builds soon I will add more
 |------------|----------------|--------|
 | Fortnite+Release-5.00-CL .ipa | [Download](N/A) | None |
 | Fortnite+Release-5.10-CL .ipa | [Download](N/A) | 🎂1st Birthday🎂 |
-| Fortnite+Release-5.30-CL .ipa | [Dowmload](N/A) | 🟪Cube Spawn🟪 |
 | Fortnite+Release-5.20-CL-4261111.ipa | [Download](https://rebrand.ly/520CL4261111) | None |
+| Fortnite+Release-5.30-CL- .ipa | [Download](N/A) | 🟪Cube Spawn🟪
 | Fortnite+Release-5.40-CL-4342997.ipa | [Download](https://rebrand.ly/540CL4342997) | None |
 | Fortnite+Release-5.41.0-CL-4363240.ipa | [Download](https://drive.google.com/file/d/1OH6wDf81qD9DWCDNgpIJ8XVI5aE74VxY/view?usp=drivesdk) | 🟪Cube Lake🟪 |
 
