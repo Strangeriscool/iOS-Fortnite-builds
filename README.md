@@ -7,6 +7,8 @@ Links are not mine soon I will replace all links to mine👍🏻
 
 These are not all of the builds soon I will add more 
 
+⭐️Please drop a star!⭐️
+
 # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
