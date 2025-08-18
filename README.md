@@ -29,8 +29,7 @@ These are not all of the builds soon I will add more
 # Season 6
 | Build name | Build download |
 |------------|----------------|
-| Fortnite+Release-6.00-CL-4395664.ipa | [Download]
-(https://rebrand.ly/600CL4395664) |
+| Fortnite+Release-6.00-CL-4395664.ipa | [Download](https://drive.google.com/file/d/1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d/view?usp=drivesdk)
 | Fortnite+Release-6.01-CL-4413911.ipa | [Download](https://drive.google.com/file/d/1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r/view?usp=drivesdk) |
 | Fortnite+Release-6.10-CL-4461277.ipa | [Download](https://drive.google.com/file/d/1FMaAukBfWXF9dA5zuNRcL7peIBuqlyNB/view?usp=drivesdk) |
 | Fortnite+Release-6.20-CL-4503517.ipa | [Download](https://drive.google.com/file/d/1emPTVUzJFXuE6K2R6qCktssrhCI-wf90/view?usp=drivesdk) |
