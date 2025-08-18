@@ -90,6 +90,8 @@ These are not all of the builds soon I will add more
 | Fortnite+Release-10.40-CL-9380822.ipa | [Download](https://drive.google.com/file/d/1TgyCxGKWk_EcGxSMm76iZAMx74VKBvWR/view?usp=drivesdk) | None |
 | Fortnite+Release-10.40.1-CL-9380822.ipa | [Download](https://drive.google.com/file/d/14DSIyTGtv3PMoHJy0eWt7jj9a_eOvOox/view?usp=drivesdk) | 🌌The End.🌌 |
 
+#Chapter 2
+
 # Season 11
 | Build name | Build download | Events |
 |------------|----------------|--------|
