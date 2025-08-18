@@ -7,7 +7,7 @@ Links are not mine soon I will replace all links to mine👍🏻
 
 These are not all of the builds soon I will add more 
 
-☄️# Season 3
+☄️ # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
 | Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://rebrand.ly/33CL3944819) | None |
