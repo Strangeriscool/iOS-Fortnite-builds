@@ -3,6 +3,7 @@
 Credits to Crunnie🕊️ for builds 3.3 - 5.40
 Credits to Localized for builds 5.41 - 13.40.1
 
+Links are not mine soon i will replace all links to mine👍🏻
 
 # season 3
 | Build name | Build download |
