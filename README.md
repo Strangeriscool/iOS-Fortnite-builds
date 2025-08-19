@@ -7,7 +7,7 @@ Credits to Localized for builds 5.41 - 13.40.1
 
 Links are not mine soon I will replace all links to mine👍🏻
 
-If you have a build that is not on here please dm @strangeriscool on discord 
+
 
 ⭐️Please drop a star!⭐️
 
