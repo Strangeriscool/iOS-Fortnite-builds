@@ -56,18 +56,22 @@ Links are not mine soon I will replace all links to mine👍🏻
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-6.00-CL-4395664.ipa | [Download](https://drive.google.com/file/d/1adO_GbIWWhl6oSQFevhDY_CoXIPyxO1d/view?usp=drivesdk) | None |
+| Fortnite+Release-6.00.1-CL-.ipa | [Download]() | None |
 | Fortnite+Release-6.01-CL-4413911.ipa | [Download](https://drive.google.com/file/d/1qm-UGMl2lZbzj6WNolQdP4BriL0Tn1-r/view?usp=drivesdk) | None |
 | Fortnite+Release-6.10-CL-4461277.ipa | [Download](https://drive.google.com/file/d/1FMaAukBfWXF9dA5zuNRcL7peIBuqlyNB/view?usp=drivesdk) | None |
 | Fortnite+Release-6.20-CL-4503517.ipa | [Download](https://drive.google.com/file/d/1emPTVUzJFXuE6K2R6qCktssrhCI-wf90/view?usp=drivesdk) | 🎃Fortnitemares🎃 |
-| Fortnite+Release-6.21-CL-4526925.ipa | [Download](https://drive.google.com/file/d/1R2p1jCBORIjE__V_fK6m4Npjkwc-PiVy/view?usp=drivesdk) | 🦋Butterfly Event🦋 |
+| Fortnite+Release-6.20.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-6.20.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-6.21.0-CL-4526925.ipa | [Download](https://drive.google.com/file/d/1R2p1jCBORIjE__V_fK6m4Npjkwc-PiVy/view?usp=drivesdk) | 🦋Butterfly Event🦋 |
+| Fortnite+Release-6.21.1-CL-.ipa | [Download]() | None |
 | Fortnite+Release-6.22-CL-4549954.ipa | [Download](https://drive.google.com/file/d/1fUVhDYdZ-_JvK3LgYKpjOMuxGF3S2Uz8/view?usp=drivesdk) | None |
-| Fortnite+Release-6.30-CL-4573279.ipa | [Download](https://drive.google.com/file/d/1YkYmntSvNcZ_kOM9PdE2ljOFraJW0xCf/view?usp=drivesdk) | None |
-| Fortnite+Release-6.31-CL-4573279.ipa | [Download](https://drive.google.com/file/d/1j2FD2wUJlXCRpGgwZMBPAqAIowKlWXDB/view?usp=drivesdk) | None |
+| Fortnite+Release-6.30.0-CL-4573279.ipa | [Download](https://drive.google.com/file/d/1YkYmntSvNcZ_kOM9PdE2ljOFraJW0xCf/view?usp=drivesdk) | None |
+| Fortnite+Release-6.31.0-CL-4573279.ipa | [Download](https://drive.google.com/file/d/1j2FD2wUJlXCRpGgwZMBPAqAIowKlWXDB/view?usp=drivesdk) | None |
 
 # Season 7
 | Build name | Build download | Events |
 |------------|----------------|--------|
-| Fortnite+Release-7.00-CL-4629139.ipa | [Download](https://drive.google.com/file/d/1iKf-T1XgMVfP5J2rww1k0G5XWFI7weng/view?usp=drivesdk) | ❄️Winterfest❄️ |
+| Fortnite+Release-7.00.0-CL-4629139.ipa | [Download](https://drive.google.com/file/d/1iKf-T1XgMVfP5J2rww1k0G5XWFI7weng/view?usp=drivesdk) | ❄️Winterfest❄️ |
 | Fortnite+Release-7.10-CL-4667333.ipa | [Download](https://drive.google.com/file/d/1eLzlXtZl9Oji1K3uEBM1oUjL_jfF5od-/view?usp=drivesdk) | None |
 | Fortnite+Release-7.20-CL-4727874.ipa | [Download](https://drive.google.com/file/d/1bFEFNkqOWxH9eMxK5lnh7Urc-b5A-SXa/view?usp=drivesdk) | ❄️Ice Kings Storm❄️ |
 | Fortnite+Release-7.30-CL-4834550.ipa | [Download](https://drive.google.com/file/d/14kq6Q10B-fWA-8pjZ_ohMo881QnOYYTL/view?usp=drivesdk) | 🎵Marshmallows Concert🎵 |
