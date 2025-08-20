@@ -14,7 +14,7 @@ Links are not mine soon I will replace all links to mine👍🏻
 # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
-| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://rebrand.ly/33CL3944819) | None |
+| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://drive.google.com/file/d/1MfLh6EVLzt5nikSxyTb211IUyolTmqly/view?usp=drive_link) | None |
 | Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://rebrand.ly/34CL3968866) | None |
 | Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://rebrand.ly/35CL3994867) | None |
 | Fortnite+Release-3.6-CL- .ipa | [Download](https://drive.google.com/file/d/1TEQeQBqZvvKajwVuJ6GgU_Y-EuURbsYf/view?usp=share_link) | ☄️Its Raining Meteors!☄️ |
@@ -24,7 +24,7 @@ Links are not mine soon I will replace all links to mine👍🏻
 |------------|----------------|--------|
 | Fortnite+Release-4.1-CL- .ipa | [Download](N/A) | 🍇Infinity War🍇
 | Fortnite+Release-4.2-CL-4072250.ipa | [Download](https://rebrand.ly/42CL4072250) | 🍇Thanos _Nerfed_ 🍇 |
-| Fortnite+Release-4.3-CL- .ipa | [Download](N/A) | None |
+| Fortnite+Release-4.3-CL- .ipa | [Download]() | None |
 | Fortnite+Release-4.4-CL- .ipa | [Download](N/A) | ⚽️World Cup Event⚽️ |
 | Fortnite+Release-4.5-CL- .ipa | [Download](N/A) | 🚀Blast Off!🚀 |
 
