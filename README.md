@@ -91,18 +91,27 @@ Links are not mine soon I will replace all links to mine👍🏻
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-8.00.0-CL-5203069.ipa | [Download](https://drive.google.com/file/d/1U5KhJa0DXoVOVnWV5VCYTJlQxwGjDUjY/view?usp=drivesdk) | None |
-| Fortnite+Release-8.01-CL-5220395.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
-| Fortnite+Release-8.10-CL-5285984.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
-| Fortnite+Release-8.20-CL-5364849.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
-| Fortnite+Release-8.30-CL-5510053.ipa | [Download](https://drive.google.com/file/d/149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR/view?usp=drivesdk) | None |
-| Fortnite+Release-8.40-CL-5619625.ipa | [Download](https://drive.google.com/file/d/149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR/view?usp=drivesdk) | None |
-| Fortnite+Release-8.50-CL-5755365.ipa | [Download](https://drive.google.com/file/d/1psEe3veN5G07UuEcJELfo7C1wOaEerar/view?usp=drivesdk) | Endgame |
-| Fortnite+Release-8.51-CL-5765364.ipa | [Download](https://drive.google.com/file/d/1-uid3IgovZbLnijnLhJHIPtszZHIDszb/view?usp=drivesdk) | 🌋Unvaulting Event🌋 |
+| Fortnite+Release-8.00.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.01.0-CL-5220395.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
+| Fortnite+Release-8.10.0-CL-5285984.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
+| Fortnite+Release-8.10.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.11.0-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.11.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.20.0-CL-5364849.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
+| Fortnite+Release-8.20.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.20.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.30.0-CL-5510053.ipa | [Download](https://drive.google.com/file/d/149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR/view?usp=drivesdk) | None |
+| Fortnite+Release-8.30.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.30.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.40.0-CL-5619625.ipa | [Download](https://drive.google.com/file/d/149Zii8wMfpMcvtjh9c5_T8PxHStrE_QR/view?usp=drivesdk) | None |
+| Fortnite+Release-8.40.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-8.50.0-CL-5755365.ipa | [Download](https://drive.google.com/file/d/1psEe3veN5G07UuEcJELfo7C1wOaEerar/view?usp=drivesdk) | Endgame |
+| Fortnite+Release-8.51.0-CL-5765364.ipa | [Download](https://drive.google.com/file/d/1-uid3IgovZbLnijnLhJHIPtszZHIDszb/view?usp=drivesdk) | 🌋Unvaulting Event🌋 |
 
 # Season 9
 | Build name | Build download | Events |
 |------------|----------------|--------|
-| Fortnite+Release-9.00-CL-6058028.ipa | [Download](https://drive.google.com/file/d/1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt/view?usp=drivesdk) | None |
+| Fortnite+Release-9.00.0-CL-6058028.ipa | [Download](https://drive.google.com/file/d/1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt/view?usp=drivesdk) | None |
 | Fortnite+Release-9.01-CL-6165369.ipa | [Download](https://drive.google.com/file/d/1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu/view?usp=drivesdk) | None |
 | Fortnite+Release-9.10-CL-6337466.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
 | Fortnite+Release-9.20-CL-6509144.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
