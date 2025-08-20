@@ -14,9 +14,10 @@ Links are not mine soon I will replace all links to mine👍🏻
 # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
-| Fortnite+Release-3.3-CL-3944819.ipa | [Download](https://drive.google.com/file/d/1MfLh6EVLzt5nikSxyTb211IUyolTmqly/view?usp=drive_link) | None |
-| Fortnite+Release-3.4-CL-3968866.ipa | [Download](https://rebrand.ly/34CL3968866) | None |
-| Fortnite+Release-3.5-CL-3994867.ipa | [Download](https://rebrand.ly/35CL3994867) | None |
+| Fortnite+Release-3.3.0-CL-3944819.ipa | [Download](https://drive.google.com/file/d/1MfLh6EVLzt5nikSxyTb211IUyolTmqly/view?usp=drive_link) | None |
+| Fortnite+Release-3.3.1-CL-.ipa | [Download](https://drive.google.com/file/d/1fxjSwJaYroKVJGCRhWsMWZeOWX6LXkcg/view?usp=drive_link) | None |
+| Fortnite+Release-3.4-CL-3968866.ipa | [Download]() | None |
+| Fortnite+Release-3.5-CL-3994867.ipa | [Download]() | None |
 | Fortnite+Release-3.6-CL- .ipa | [Download](https://drive.google.com/file/d/1TEQeQBqZvvKajwVuJ6GgU_Y-EuURbsYf/view?usp=share_link) | ☄️Its Raining Meteors!☄️ |
 
 # Season 4
