@@ -112,13 +112,18 @@ Links are not mine soon I will replace all links to mine👍🏻
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-9.00.0-CL-6058028.ipa | [Download](https://drive.google.com/file/d/1740a_VSIX6_s_k8oACIpGVjS4kuPtGYt/view?usp=drivesdk) | None |
-| Fortnite+Release-9.01-CL-6165369.ipa | [Download](https://drive.google.com/file/d/1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu/view?usp=drivesdk) | None |
-| Fortnite+Release-9.10-CL-6337466.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
-| Fortnite+Release-9.20-CL-6509144.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
-| Fortnite+Release-9.21-CL-6545299.ipa | [Download](https://drive.google.com/file/d/1yWyXmaJWGBuyj9ap4mKtMOOa-nREB1NQ/view?usp=drivesdk) | None |
-| Fortnite+Release-9.30-CL-6639283.ipa | [Download](https://drive.google.com/file/d/1ijczHmnkasJfOvvxozOjwQlto0PsMPeD/view?usp=drivesdk) | None |
-| Fortnite+Release-9.40-CL-7217132.ipa | [Download](https://drive.google.com/file/d/1RO1h3UOOzlJGtM07W9D1WFty32GTwTQw/view?usp=drivesdk) | 🤖Mecha vs Monster🤖 |
-| Fortnite+Release-9.41-CL-7315705.ipa | [Download](https://drive.google.com/file/d/1SMuZSOpIzfuhcBTWVdvR1gRnx88wwR9p/view?usp=drivesdk) | None |
+| Fortnite+Release-9.01.0-CL-6165369.ipa | [Download](https://drive.google.com/file/d/1HTKciovInCQEt6eQBGMj9CXJYCXYSGZu/view?usp=drivesdk) | None |
+| Fortnite+Release-9.10.0-CL-6337466.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
+| Fortnite+Release-9.20.0-CL-6509144.ipa | [Download](https://drive.google.com/file/d/1dLsOnC1B1dtBCWuTVigGMrnYvS_CifVC/view?usp=drivesdk) | None |
+| Fortnite+Release-9.20.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-9.21.0-CL-6545299.ipa | [Download](https://drive.google.com/file/d/1yWyXmaJWGBuyj9ap4mKtMOOa-nREB1NQ/view?usp=drivesdk) | None |
+| Fortnite+Release-9.21.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-9.30.0-CL-6639283.ipa | [Download](https://drive.google.com/file/d/1ijczHmnkasJfOvvxozOjwQlto0PsMPeD/view?usp=drivesdk) | None |
+| Fortnite+Release-9.30.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-9.40.0-CL-7217132.ipa | [Download](https://drive.google.com/file/d/1RO1h3UOOzlJGtM07W9D1WFty32GTwTQw/view?usp=drivesdk) | 🤖Mecha vs Monster🤖 |
+| Fortnite+Release-9.40.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-9.40.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-9.41.0-CL-7315705.ipa | [Download](https://drive.google.com/file/d/1SMuZSOpIzfuhcBTWVdvR1gRnx88wwR9p/view?usp=drivesdk) | None || Fortnite+Release-9.41.1-CL-.ipa | [Download]() | None |
 
 # Season 10    Note! versions 10.30 - 13.40.1 Have PartyHub!
 | Build name | Build download | Events |
