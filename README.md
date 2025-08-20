@@ -72,15 +72,25 @@ Links are not mine soon I will replace all links to mine👍🏻
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-7.00.0-CL-4629139.ipa | [Download](https://drive.google.com/file/d/1iKf-T1XgMVfP5J2rww1k0G5XWFI7weng/view?usp=drivesdk) | ❄️Winterfest❄️ |
-| Fortnite+Release-7.10-CL-4667333.ipa | [Download](https://drive.google.com/file/d/1eLzlXtZl9Oji1K3uEBM1oUjL_jfF5od-/view?usp=drivesdk) | None |
-| Fortnite+Release-7.20-CL-4727874.ipa | [Download](https://drive.google.com/file/d/1bFEFNkqOWxH9eMxK5lnh7Urc-b5A-SXa/view?usp=drivesdk) | ❄️Ice Kings Storm❄️ |
-| Fortnite+Release-7.30-CL-4834550.ipa | [Download](https://drive.google.com/file/d/14kq6Q10B-fWA-8pjZ_ohMo881QnOYYTL/view?usp=drivesdk) | 🎵Marshmallows Concert🎵 |
-| Fortnite+Release-7.40-CL-5011364.ipa | [Download](https://drive.google.com/file/d/1hXs_8CZjgiZgRLfsx6h2LJtpnCZRmba4/view?usp=drivesdk) | None |
+| Fortnite+Release-7.00.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.01.0-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.01.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.10.0-CL-4667333.ipa | [Download](https://drive.google.com/file/d/1eLzlXtZl9Oji1K3uEBM1oUjL_jfF5od-/view?usp=drivesdk) | None |
+| Fortnite+Release-7.10.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.20.0-CL-4727874.ipa | [Download](https://drive.google.com/file/d/1bFEFNkqOWxH9eMxK5lnh7Urc-b5A-SXa/view?usp=drivesdk) | ❄️Ice Kings Storm❄️ |
+| Fortnite+Release-7.20.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.20.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.30.0--CL-4834550.ipa | [Download](https://drive.google.com/file/d/14kq6Q10B-fWA-8pjZ_ohMo881QnOYYTL/view?usp=drivesdk) | 🎵Marshmallows Concert🎵 |
+| Fortnite+Release-7.30.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.30.2-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.40.0-CL-5011364.ipa | [Download](https://drive.google.com/file/d/1hXs_8CZjgiZgRLfsx6h2LJtpnCZRmba4/view?usp=drivesdk) | None |
+| Fortnite+Release-7.40.1-CL-.ipa | [Download]() | None |
+| Fortnite+Release-7.40.2-CL-.ipa | [Download]() | None |
 
 # Season 8
 | Build name | Build download | Events |
 |------------|----------------|--------|
-| Fortnite+Release-8.00-CL-5203069.ipa | [Download](https://drive.google.com/file/d/1U5KhJa0DXoVOVnWV5VCYTJlQxwGjDUjY/view?usp=drivesdk) | None |
+| Fortnite+Release-8.00.0-CL-5203069.ipa | [Download](https://drive.google.com/file/d/1U5KhJa0DXoVOVnWV5VCYTJlQxwGjDUjY/view?usp=drivesdk) | None |
 | Fortnite+Release-8.01-CL-5220395.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
 | Fortnite+Release-8.10-CL-5285984.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
 | Fortnite+Release-8.20-CL-5364849.ipa | [Download](https://drive.google.com/file/d/1g3ivQEFD33PxJ2y7iWrkwEsKafN0Nl9i/view?usp=drivesdk) | None |
