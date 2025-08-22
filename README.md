@@ -115,7 +115,7 @@ Links are not mine soon I will replace all links to mine👍🏻
 | Fortnite+Release-9.01.0-CL-6165369.ipa | [Download](https://drive.google.com/file/d/1tG6e6HHIMVmdaQvBtQxql8Zfc1yoXJlQ/view?usp=drive_link) | None |
 | Fortnite+Release-9.10.0-CL-6337466.ipa | [Download](https://drive.google.com/file/d/1OwYNe_GHamhmySqEwqxpP2YLKol98VNP/view?usp=drive_link) | None |
 | Fortnite+Release-9.20.0-CL-6509144.ipa | [Download](https://drive.google.com/file/d/13EFrstrSmIFriP6Us7q5vTbI0ANEpYKL/view?usp=drive_link) | None |
-| Fortnite+Release-9.20.1-CL-.ipa | [Download](https://drive.google.com/file/d/1Yy9WW6I0nmgfloT_I14ogqWvR1EpQE_X/view?usp=drive_link) | None |
+| Fortnite+Release-9.20.1-CL-.ipa | [Download](https://drive.google.com/file/d/1Yy9WW6I0nmgfloT_I14ogqWvR1EpQE_X/view?usp=drive_link) | StrangerThings |
 | Fortnite+Release-9.21.0-CL-6545299.ipa | [Download](https://drive.google.com/file/d/1F5hTo0Brt55AvFeImBQ-bQsF5s96-Q-7/view?usp=drive_link) | None |
 | Fortnite+Release-9.21.1-CL-.ipa | [Download](https://drive.google.com/file/d/18NtLbfpJbhwCBZAgpNGMtstcAqCOPVwy/view?usp=drive_link) | None |
 | Fortnite+Release-9.30.0-CL-6639283.ipa | [Download](https://drive.google.com/file/d/1aTRuAT2_eTxNIAsm94fsJ_xoStMuYadt/view?usp=drive_link) | None |
