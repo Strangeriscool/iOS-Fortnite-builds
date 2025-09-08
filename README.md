@@ -7,7 +7,7 @@ Credits to Localized for builds 5.41 - 13.40.1
 
 Some links are not mine soon I will replace all links to mine👍🏻
 
-For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/The-Archive/blob/main/README.md)
+For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/The-Archive/tree/main)
 
 ⭐️Please drop a star!⭐️
 
