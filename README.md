@@ -5,7 +5,7 @@
 Credits to Crunnie🕊️ for builds 3.3 - 5.40
 Credits to Localized for builds 5.41 - 13.40.1
 
-Links are not mine soon I will replace all links to mine👍🏻
+Some links are not mine soon I will replace all links to mine👍🏻
 
 For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/The-Archive/blob/main/README.md)
 
