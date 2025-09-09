@@ -1,7 +1,7 @@
 <div align=center>
 
 # <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for ios
-An archive with every build from 3.3 - 13.40.1
+
 
 </div>
 <br>
