@@ -1,6 +1,6 @@
 <div align=center>
 
-# <img src="https://cdn.discordapp.com/attachments/751304558453719176/936194213199093810/rsz_1rsz_1apple_logo_greysvg.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for ios
+# <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fapple-logo-icon&psig=AOvVaw0unPwo3Wi785stxDBIglqA&ust=1757535570850000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLiAia3AzI8DFQAAAAAdAAAAABA_.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for ios
 
 
 </div>
