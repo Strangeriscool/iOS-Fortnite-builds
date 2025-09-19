@@ -129,7 +129,7 @@ For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/
 | Fortnite+Release-9.40.0-CL-7217132.ipa | [Download](https://drive.google.com/file/d/15cy-D71dIVnaod_90rzEIRW7GlPU9W8f/view?usp=drive_link) | 🤖Mecha vs Monster🤖 |
 | Fortnite+Release-9.40.1-CL-.ipa | [Download](https://drive.google.com/file/d/1DIKJRYO5i_xiQsrtZOn7XRSisdGiMPcS/view?usp=drive_link) | None |
 | Fortnite+Release-9.40.2-CL-.ipa | [Download](https://drive.google.com/file/d/1ZKPShhsJbKIW-IMUWFsyp7JUaT1YWsAj/view?usp=drive_link) | None |
-| Fortnite+Release-9.41.0-CL-7315705.ipa | [Download]() | None || Fortnite+Release-9.41.1-CL-.ipa | [Download](https://drive.google.com/file/d/1PW5KAi8jDMv-EaygyGwbN9bDuBEYMp91/view?usp=drive_link) | None |
+| Fortnite+Release-9.41.0-CL-7315705.ipa | [Download](drive.google.com/file/d/1PW5KAi8jDMv-EaygyGwbN9bDuBEYMp91/view?usp=drive_link) | None |
 
 # Season 10    Note! versions 10.30 - 13.40.1 Have PartyHub!
 | Build name | Build download | Events |
