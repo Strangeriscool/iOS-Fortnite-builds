@@ -1,6 +1,6 @@
 <div align=center>
 
-# <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fapple-logo%2F&psig=AOvVaw2jmqbNiL26ij0KU0aO6JiI&ust=1760329238950000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOjW58nnnZADFQAAAAAdAAAAABAZ" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for iOS
+# <img src="https://cdn.freebiesupply.com/images/thumbs/2x/apple-logo.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for iOS
 
 
 </div>
