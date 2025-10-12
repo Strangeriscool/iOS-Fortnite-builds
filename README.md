@@ -1,6 +1,6 @@
 <div align=center>
 
-# <img src="https://commons.wikimedia.org/wiki/File:Apple_logo_white.svg#/media/File:Apple_logo_white.svg.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for iOS
+# <img src="https://commons.wikimedia.org/wiki/File:Apple_logo_white.svg#/media/File:Apple_logo_white.svg" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for iOS
 
 
 </div>
