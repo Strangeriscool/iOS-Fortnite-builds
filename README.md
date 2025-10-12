@@ -23,7 +23,7 @@ For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/
 | Fortnite+Release-3.3.0-CL-3944819.ipa | [Download](https://drive.google.com/file/d/1MfLh6EVLzt5nikSxyTb211IUyolTmqly/view?usp=drive_link) | None |
 | Fortnite+Release-3.3.1-CL-.ipa | [Download](https://drive.google.com/file/d/1fxjSwJaYroKVJGCRhWsMWZeOWX6LXkcg/view?usp=drive_link) | None |
 | Fortnite+Release-3.4.0-CL-3968866.ipa | [Download](https://drive.google.com/file/d/1-wzkyEj7PiC_uFcOgDDLLqODiYl_huuj/view?usp=drive_link) | None |
-| Fortnite+Release-3.4.2-CL-.ipa | [Download](https://drive.google.com/file/d/1fuWs1NYmRrex_8qux_1kOwUesfCf6880/view?usp=drive_link) | None |
+| Fortnite+Release-3.4.2-CL-3975348.ipa | [Download](https://drive.google.com/file/d/1fuWs1NYmRrex_8qux_1kOwUesfCf6880/view?usp=drive_link) | None |
 | Fortnite+Release-3.5.0-CL-3994867.ipa | [Download](https://drive.google.com/file/d/1kTC7C_q30Ev4LpS-zFCtDzeC8yoAl3NL/view?usp=drive_link) | None |
 | Fortnite+Release-3.6.0-CL-4016789.ipa | [Download](https://drive.google.com/file/d/1TEQeQBqZvvKajwVuJ6GgU_Y-EuURbsYf/view?usp=share_link) | ☄️Its Raining Meteors!☄️ |
 
