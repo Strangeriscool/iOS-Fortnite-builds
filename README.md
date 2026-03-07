@@ -25,7 +25,7 @@ Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipse
 
 <div align="center">
 
-# ⭐If you find this archive helpful, please drop a star!⭐
+## ⭐If you find this archive helpful, please drop a star!⭐
 
 </div>
 
