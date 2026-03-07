@@ -1,25 +1,51 @@
-<div align=center>
+<div align="center">
 
-# <img src="https://cdn.freebiesupply.com/images/thumbs/2x/apple-logo.png" alt="Apple Logo" width="20" height="24"> Largest Chapter 1 and 2 archive for iOS
+# <img src="https://cdn.freebiesupply.com/images/thumbs/2x/apple-logo.png" alt="Apple Logo" width="20" height="24"> Largest Fortnite iOS Archive
+
 
 
 </div>
-<br>
 
+---
 
+##  Credits
 
-Credits to Crunnie🕊️ for builds 3.3 - 5.40
-Credits to Localized for builds 5.41 - 13.40.1
-Credits to Repressoh for builds 31.00 - 32.10
+Huge thanks to the people who helped preserve these builds:
 
-Have a question about something? Open up an issue!
+- **Crunnie 🕊️** — Builds **3.3 → 5.40**
+- **Localized** — Builds **5.41 → 13.40.1**
+- **Repressoh** — Builds **31.00 → 32.10**
 
-If you need help with the redirect dm me on discord - @strangeriscool
+---
 
-For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/The-Archive/tree/main)
+##  Questions / Issues
 
-⭐️Please drop a star!⭐️
+If you have a question or find a problem, **please open an Issue** on this repository.
 
+---
+
+## 💬 Support
+
+Need help with **Redirecting the IPAs**?
+
+DM me on Discord:  
+**@strangeriscool**
+
+---
+
+##  Other Platform Builds
+
+Looking for **PC, Android, Switch, or PS4 builds?**
+
+ https://github.com/chipset808/The-Archive/tree/main
+
+---
+
+<div align="center">
+
+⭐ **If you find this archive helpful, please consider dropping a star!** ⭐
+
+</div>
 # Season 3
 | Build name | Build download | Events
 |------------|----------------|--------|
