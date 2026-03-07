@@ -13,6 +13,8 @@ Credits to Localized for builds 5.41 - 13.40.1
 
 Have a question about something? Open up an issue!
 
+If you need help with the redirect dm me on discord - @strangeriscool
+
 For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/The-Archive/tree/main)
 
 ⭐️Please drop a star!⭐️
