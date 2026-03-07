@@ -21,9 +21,7 @@ DM me on Discord:
 @strangeriscool
 
 ## Other Platform Builds
-Looking for PC, Android, Switch, or PS4 builds?
-
-[Here](https://github.com/chipset808/The-Archive/tree/main)
+Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipset808/The-Archive/tree/main)
 
 <div align="center">
 
