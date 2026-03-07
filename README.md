@@ -10,6 +10,7 @@
 
 Credits to Crunnie🕊️ for builds 3.3 - 5.40
 Credits to Localized for builds 5.41 - 13.40.1
+Credits to Repressoh for builds 31.00 - 32.10
 
 Have a question about something? Open up an issue!
 
@@ -185,7 +186,7 @@ For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/
 
 
 
-## Chapter 5
+# Chapter 5
 # Season 4
 | Build name | Build download | Events |
 |------------|----------------|--------|
