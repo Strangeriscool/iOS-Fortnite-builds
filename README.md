@@ -1,43 +1,33 @@
 <div align="center">
 
-# <img src="https://cdn.freebiesupply.com/images/thumbs/2x/apple-logo.png" alt="Apple Logo" width="20" height="24"> Largest Fortnite iOS Archive
+# Largest Fortnite iOS Archive
 
 </div>
 
----
+## Credits
+Credits to all of the people who helped find these IPAs:
 
-##  Credits
-Credits to all of the people who helped find these IPAs :
+- Crunnie — Builds 3.3 → 5.40  
+- Localized — Builds 5.41 → 13.40.1  
+- Repressoh — Builds 31.00 → 32.10
 
-- **Crunnie 🕊️** — Builds **3.3 → 5.40**  
-- **Localized** — Builds **5.41 → 13.40.1**  
-- **Repressoh** — Builds **31.00 → 32.10**
+## Questions / Issues
+If you have a question or find a problem, please open an Issue.
 
----
-
-##  Questions / Issues
-If you have a question or find a problem, **please open an Issue**.
-
----
-
-##  Support
-Need help with **redirecting the IPAs**?
+## Support
+Need help with redirecting the IPAs?
 
 DM me on Discord:  
-**@strangeriscool**
+@strangeriscool
 
----
+## Other Platform Builds
+Looking for PC, Android, Switch, or PS4 builds?
 
-##  Other Platform Builds
-Looking for **PC, Android, Switch, or PS4 builds?**
-
- https://github.com/chipset808/The-Archive/tree/main
-
----
+https://github.com/chipset808/The-Archive/tree/main
 
 <div align="center">
 
-⭐ **If you find this archive helpful, please consider dropping a star!** ⭐
+If you find this archive helpful, please consider dropping a star!
 
 </div>
 
