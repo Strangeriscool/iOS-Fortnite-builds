@@ -186,3 +186,12 @@ For Pc,Android,Switch and PS4 builds go to [Here](https://github.com/chipset808/
 
 
 # Chapter 5
+| Build name | Build download | Events |
+|------------|----------------|--------|
+| Fortnite+Release-31.00-CL-.ipa | [Download](https://drive.google.com/file/d/1kxY3-Q916a1YUVygM6wugff7jaQ4t20u/view?usp=drive_link) | None |
+| Fortnite+Release-31.10-CL-.ipa | [Download](https://drive.google.com/file/d/14do1ct2bXz9EvhPgUu_67ACvRz7TZYkh/view?usp=drive_link) | None |
+| Fortnite+Release-31.20-CL-.ipa | [Download](https://drive.google.com/file/d/1eYnlYehOj629qOcUkMM6BWNGTUCygSgf/view?usp=drive_link) | None |
+| Fortnite+Release-31.30-CL-.ipa | [Download](https://drive.google.com/file/d/1SyFTvUjSFecwO1VXRnZ1J0cLm4Mcbr77/view?usp=drive_link) | None |
+| Fortnite+Release-31.40-CL-.ipa | [Download](https://drive.google.com/file/d/1f4BuHgHbHSPFU5MSBkJBu_F-djqhTO7M/view?usp=drive_link) | None |
+| Fortnite+Release-32.00-CL-.ipa | [Download](https://drive.google.com/file/d/1tp08KzkDlTFyYbtETke_eRqCQfidEcdW/view?usp=drive_link) | None |
+| Fortnite+Release-32.10-CL-.ipa | [Download](https://drive.google.com/file/d/1dlu2x0HI8KspnVqPX8ODzBC-tAhvQsAh/view?usp=drive_link) | None |
