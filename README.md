@@ -1,13 +1,13 @@
 <div align="center">
 
-# Largest Fortnite iOS Archive
+# 🏆Largest Fortnite iOS Archive🏆
 
 </div>
 
 ## Credits
 Credits to all of the people who helped find these IPAs:
 
-- Crunnie — Builds 3.3 → 5.40  
+- Crunnie🕊️ — Builds 3.3 → 5.40  
 - Localized — Builds 5.41 → 13.40.1  
 - Repressoh — Builds 31.00 → 32.10
 
@@ -27,7 +27,7 @@ https://github.com/chipset808/The-Archive/tree/main
 
 <div align="center">
 
-If you find this archive helpful, please consider dropping a star!
+⭐If you find this archive helpful, please drop a star!⭐
 
 </div>
 
