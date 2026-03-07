@@ -23,11 +23,11 @@ DM me on Discord:
 ## Other Platform Builds
 Looking for PC, Android, Switch, or PS4 builds?
 
-https://github.com/chipset808/The-Archive/tree/main
+[Here](https://github.com/chipset808/The-Archive/tree/main)
 
 <div align="center">
 
-⭐If you find this archive helpful, please drop a star!⭐
+# ⭐If you find this archive helpful, please drop a star!⭐
 
 </div>
 
