@@ -210,4 +210,4 @@ Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipse
 |------------|----------------|--------|
 | Fortnite+Release-32.00-CL-37505882.ipa | [Download](https://drive.google.com/file/d/1tp08KzkDlTFyYbtETke_eRqCQfidEcdW/view?usp=drive_link) | None |
 | Fortnite+Release-32.10-CL-37958378.ipa | [Download](https://drive.google.com/file/d/1dlu2x0HI8KspnVqPX8ODzBC-tAhvQsAh/view?usp=drive_link) | None |
-| Fortnite+Release-32.10-CL-37958378.ipa | [Download](https://drive.google.com/file/d/1WBv-X30PXcclE-u1Z-kA8T4nWMbXJMzW/view?usp=drive_link) | The Finale |
+| Fortnite+Release-32.11-CL-37958378.ipa | [Download](https://drive.google.com/file/d/1WBv-X30PXcclE-u1Z-kA8T4nWMbXJMzW/view?usp=drive_link) | The Finale |
