@@ -148,11 +148,13 @@ Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipse
 |------------|----------------|--------|
 | Fortnite+Release-10.00-CL-7655413.ipa | [Download](https://drive.google.com/file/d/173k__Jvb-T48NGIKLp41g3Mo1lyRIMfb/view?usp=sharing) | None |
 | Fortnite+Release-10.10-CL-7852093.ipa | [Download](https://drive.google.com/file/d/1ZuwZk3GrqSsq9X3g_IvWFAa-OfIXOYtp/view?usp=drive_link) | None |
-| Fortnite+Release-10.20-CL-8243923.ipa | [Download](https://drive.google.com/file/d/1geektyPee5fpBK56QrQ6bITAwT28ZDXX/view?usp=drive_link) | None |
-| Fortnite+Release-10.30-CL-8569414.ipa | [Download](https://drive.google.com/file/d/1a1dpne6hIaPj64p4CZyEIxSfH2NSKPNN/view?usp=drive_link) | None |
-| Fortnite+Release-10.31-CL-8775699.ipa | [Download](https://drive.google.com/file/d/1T3efmy5PzFPvhnrGTi0Ho5jj_12Ojrta/view?usp=drive_link) | None |
-| Fortnite+Release-10.40-CL-9380822.ipa | [Download](https://drive.google.com/file/d/1UvXNk5eQ5mUgLLxgH2MvPZGIMHy_bN2B/view?usp=drive_link) | None |
-| Fortnite+Release-10.40.1-CL-9380822.ipa | [Download](https://drive.google.com/file/d/1L6NsD3N22Z_xKa4nIDcsT1Bpn2_9Okg0/view?usp=drive_link) | 🌌The End.🌌 |
+| Fortnite+Release-10.20-CL-7955722.ipa | [Download](https://drive.google.com/file/d/1geektyPee5fpBK56QrQ6bITAwT28ZDXX/view?usp=drive_link) | None |
+| Fortnite+Release-10.20.1-CL-8036545.ipa | [Download](https://drive.google.com/file/d/1S6H0iXYonq4ihkP-17nF2YOJ_Y25qjM5/view?usp=drive_link) | None |
+| Fortnite+Release-10.20.2-CL-8243923.ipa | [Download](https://drive.google.com/file/d/1_NaWjFZ1vO3rauIdb_QMAJb2aYVyDuxD/view?usp=drive_link) | None |
+| Fortnite+Release-10.30-CL-8573866.ipa | [Download](https://drive.google.com/file/d/1a1dpne6hIaPj64p4CZyEIxSfH2NSKPNN/view?usp=drive_link) | None |
+| Fortnite+Release-10.31-CL-8694018.ipa | [Download](https://drive.google.com/file/d/1T3efmy5PzFPvhnrGTi0Ho5jj_12Ojrta/view?usp=drive_link) | None |
+| Fortnite+Release-10.40-CL-8970213.ipa | [Download](https://drive.google.com/file/d/1UvXNk5eQ5mUgLLxgH2MvPZGIMHy_bN2B/view?usp=drive_link) | None |
+| Fortnite+Release-10.40.1-CL-9302865.ipa | [Download](https://drive.google.com/file/d/1L6NsD3N22Z_xKa4nIDcsT1Bpn2_9Okg0/view?usp=drive_link) | 🌌The End.🌌 |
 
 
 # Chapter 2
@@ -162,26 +164,41 @@ Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipse
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-11.00-CL-9603448.ipa | [Download](https://drive.google.com/file/d/1JQ9eur6jZzNoDdjIjs91M3tzz2CW0lvq/view?usp=drivesdk) | None |
-| Fortnite+Release-11.01-CL-9728272.ipa | [Download](https://drive.google.com/file/d/1VlZPE6aODBwlh2wY7A1FXXkVpi1-uoe-/view?usp=drivesdk) | None |
+| Fortnite+Release-11.00.1-CL-9603448.ipa | [Download](https://drive.google.com/file/d/18PrKfwiaQzT3GDqiTUAFD_98phS6U4ce/view?usp=drive_link) | None |
+| Fortnite+Release-11.01-CL-9675746.ipa | [Download](https://drive.google.com/file/d/1VlZPE6aODBwlh2wY7A1FXXkVpi1-uoe-/view?usp=drivesdk) | None |
 | Fortnite+Release-11.10-CL-9901080.ipa | [Download](https://drive.google.com/file/d/1eYEE8MFkAFL4k7XWBrZ4Ydy0qdswp5U_/view?usp=drivesdk) | None |
+| Fortnite+Release-11.10.1-CL-9888431.ipa | [Download](https://drive.google.com/file/d/1CY8avJ7NKoBxIEfdi447m6bTsDJg0f23/view?usp=drive_link) | None |
 | Fortnite+Release-11.11-CL-10082788.ipa | [Download](https://drive.google.com/file/d/19ICA4ftffmR04OMVuLjPU_X7wrsK1i5v/view?usp=drivesdk) | None |
 | Fortnite+Release-11.20-CL-10328330.ipa | [Download](https://drive.google.com/file/d/1yhi224PS7TYudLLzYxm2-BS31sJ_6dhd/view?usp=drivesdk) | None |
 | Fortnite+Release-11.21-CL-10481509.ipa | [Download](https://drive.google.com/file/d/1A2_H3-8ZS7IdGFRxXx-Y5xgzQGvnC4Rm/view?usp=drivesdk) | None |
 | Fortnite+Release-11.30-CL-10653595.ipa | [Download](https://drive.google.com/file/d/1H0ZKLaIb3LZ1i2RFuS_T6MABmpAUWf6W/view?usp=drivesdk) | ⚔️The Rise of Skywalker⚔️ |
-| Fortnite+Release-11.31-CL-10805056.ipa | [Download](https://drive.google.com/file/d/1fMwyiLK0RCqzTlw0pke3EeBwtiRLQy_v/view?usp=drivesdk) | None |
-| Fortnite+Release-11.40-CL-11058555.ipa | [Download](https://drive.google.com/file/d/1cN5xQ9W8YWu6C4DOR9_WKQqH_jWcTz5h/view?usp=drivesdk) | None |
+| Fortnite+Release-11.31-CL-10760473.ipa | [Download](https://drive.google.com/file/d/1fMwyiLK0RCqzTlw0pke3EeBwtiRLQy_v/view?usp=drivesdk) | None |
+| Fortnite+Release-11.31.1-CL-10805056.ipa | [Download](https://drive.google.com/file/d/1250TidlIS8QbhZkL72dvHkiw622yVag8/view?usp=drive_link) | None |
+| Fortnite+Release-11.40-CL-10948180.ipa | [Download](https://drive.google.com/file/d/1cN5xQ9W8YWu6C4DOR9_WKQqH_jWcTz5h/view?usp=drivesdk) | None |
+| Fortnite+Release-11.40.1-CL-10993225.ipa | [Download](https://drive.google.com/file/d/1O42zfl2iGifq9DsS99Xwzoj8Vx8Nx3nd/view?usp=drive_link) | None |
+| Fortnite+Release-11.40.2-CL-11058555.ipa | [Download](https://drive.google.com/file/d/1bxWceVXrQazJzXVGiLexvtNZPVStTm7P/view?usp=drive_link) | None |
+| Fortnite+Release-11.40.3-CL-11109625.ipa | [Download](https://drive.google.com/file/d/1WtnULd9--WmJae2ufrEL66kr-AAdgnP0/view?usp=drive_link) | None |
 | Fortnite+Release-11.50-CL-11109625.ipa | [Download](https://drive.google.com/file/d/1VVWSJLclcvGHox7R7l2rpljNvTrBECc_/view?usp=drivesdk) | None |
+| Fortnite+Release-11.50.1-CL-11109625.ipa | [Download](https://drive.google.com/file/d/1OFMI7X1TmhdcSnsCaaOYp2EssYkXd7gB/view?usp=drive_link) | None |
 
 # Season 12
 | Build name | Build download | Events |
 |------------|----------------|--------|
 | Fortnite+Release-12.00-CL-11452981.ipa | [Download](https://drive.google.com/file/d/1t_k9i8ADLbPCgbnZGxWWukzJd-XAmLqK/view?usp=drivesdk) | None |
-| Fortnite+Release-12.10-CL-11932896.ipa | [Download](https://drive.google.com/file/d/1t2tVLxq2mapkM50IB1Iqn8yDO7bGM5pz/view?usp=drivesdk) | None |
-| Fortnite+Release-12.20-CL-12236980.ipa | [Download](https://drive.google.com/file/d/1Y3TsD5ZOT2Jm5Ox-z0eX7DJlT6Y6vBdH/view?usp=drivesdk) | None |
-| Fortnite+Release-12.30-CL-12502545.ipa | [Download](https://drive.google.com/file/d/1uF6K78NNgsSyFRkAyH33Ce9AudFeqz-t/view?usp=drivesdk) | None |
+| Fortnite+Release-12.00.1-CL-11573981.ipa | [Download](https://drive.google.com/file/d/1UfjZkcqLloBXPVOiCrvCIAo6pMdz5Ozt/view?usp=drive_link) | None |
+| Fortnite+Release-12.10-CL-11932896.ipa | [Download](https://drive.google.com/file/d/1DOf1aYUm-618h3Y-B2JgdG_FzeIgdKa4/view?usp=drive_link) | None |
+| Fortnite+Release-12.10.1-CL-11932896.ipa | [Download](https://drive.google.com/file/d/1t2tVLxq2mapkM50IB1Iqn8yDO7bGM5pz/view?usp=drivesdk) | None |
+| Fortnite+Release-12.20-CL-12236980.ipa | [Download](https://drive.google.com/file/d/1X4JKfk-Vltp4HTeinatbnZnIzykfuNv_/view?usp=drive_link) | None |
+| Fortnite+Release-12.20.1-CL-12236350.ipa | [Download](https://drive.google.com/file/d/1ToqAlfKnTMNwosk641UiO8PUcWD2iWcJ/view?usp=drive_link) | None |
+| Fortnite+Release-12.21-CL-12337779.ipa | [Download](https://drive.google.com/file/d/1EjC0fn8kmTy0A0BR0hlyh7M5D_1D3CQN/view?usp=drive_link) | None |
+| Fortnite+Release-12.30-CL-12466026.ipa | [Download](https://drive.google.com/file/d/1uF6K78NNgsSyFRkAyH33Ce9AudFeqz-t/view?usp=drivesdk) | None |
+| Fortnite+Release-12.30.1-CL-12502545.ipa | [Download](https://drive.google.com/file/d/1adskyLGBYS7b801zJMz-FDnWC9GK4sUQ/view?usp=drive_link) | None |
+| Fortnite+Release-12.30.2-CL-12624643.ipa | [Download](https://drive.google.com/file/d/1YoKs2J6s-W5l3o5xMdO0XAAZwi2kgQL-/view?usp=drive_link) | None |
 | Fortnite+Release-12.40-CL-12743645.ipa | [Download](https://drive.google.com/file/d/1-3g9qwD67OZ9ZZEA1nTGNKeMaLG1S2hd/view?usp=drivesdk) | None |
 | Fortnite+Release-12.41-CL-12837456.ipa | [Download](https://drive.google.com/file/d/1d1ku3HjerxDuUzcFl_MWwqy1O0Gha1t5/view?usp=drivesdk) | 🎵Travis Scott event🎵 |
 | Fortnite+Release-12.50-CL-12905909.ipa | [Download](https://drive.google.com/file/d/1h0UhqwwQSnT7TyxG2mr1AGoinYpedRrb/view?usp=drivesdk) | None |
+| Fortnite+Release-12.50.1-CL-13072947.ipa | [Download](https://drive.google.com/file/d/1l7GRedf_jUafEUH9Jgm3a2cmKKXEQhta/view?usp=drive_link) | None |
+| Fortnite+Release-12.50.2-CL-13145586.ipa | [Download](https://drive.google.com/file/d/1hbKVeqvdOjMFnH_sqx3-drwenIWVFQCD/view?usp=drive_link) | None |
 | Fortnite+Release-12.60-CL-13193885.ipa | [Download](https://drive.google.com/file/d/10MnNdkqjxu-EWkV-utHnLtBzfN9Ujd9q/view?usp=drivesdk) | None |
 | Fortnite+Release-12.61-CL-13498980.ipa | [Download](https://drive.google.com/file/d/1O8xjRv4fkzkQUd3cb4AuIr3OqUiBUONf/view?usp=drivesdk) | The Device |
 
@@ -192,6 +209,7 @@ Looking for PC, Android, Switch, or PS4 builds? [Here](https://github.com/chipse
 | Fortnite+Release-13.20-CL-13884634.ipa | [Download](https://drive.google.com/file/d/18l08Jbn2qC5gdGLYP8KaxX8RQfwlaXmD/view?usp=drivesdk) | None |
 | Fortnite+Release-13.30-CL-13981259.ipa | [Download](https://drive.google.com/file/d/1MaJMiYNcBcyQFmFo6rgQCawfxYwv-HyH/view?usp=drivesdk) | None |
 | Fortnite+Release-13.40-CL-14050091.ipa | [Download](https://drive.google.com/file/d/1gnZr2AHpAPwNQasG8CKUSyET4zS7L8TI/view?usp=drivesdk) | None |
+| Fortnite+Release-13.40.1-CL-14050091.ipa | [Download](https://drive.google.com/file/d/1kYW-PZ4XPeoCBXO5BVjvth9A-kNPpz4-/view?usp=drive_link) | None |
 
 
 
